@@ -4,7 +4,7 @@ import cthylla as proj
 setup(
     name = 'cthylla',
     version = proj.__versionstr__,
-    description = 'Tiny library for fetching buildmaster configuration from CthulhuBot'
+    description = 'Tiny library for fetching buildmaster configuration from CthulhuBot',
     author = 'centrum holdings s.r.o',
     author_email='lukas.linhart@centrumholdings.com',
     license = 'BSD',
