@@ -1,0 +1,8 @@
+*.py[co]
+.*.sw?
+*~
+build_doc
+nbproject
+tests/unit_project/settings/local.py
+tests/example_project/settings/local.py
+
