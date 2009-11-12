@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: python-cthylla
 Architecture: all
-Depends: ${python:Depends}, ${misc:Depends}, python-buildbot
+Depends: ${python:Depends}, ${misc:Depends}, buildbot
 Description: Tiny Cthulhubot library for retrieving buildmaster configuration
 
